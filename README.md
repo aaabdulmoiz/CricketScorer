@@ -3,4 +3,4 @@
  
  This is the homepage.
  
- <img src='screenshots/capture1.jpg'>
+ <img src='screenshots/Capture1.JPG'>
